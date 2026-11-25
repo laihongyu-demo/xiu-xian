@@ -1,0 +1,16 @@
+# 统一换行处理：文本文件入库为 LF，二进制文件不做转换
+* text=auto
+
+*.xlsx binary
+*.xls binary
+*.docx binary
+*.pptx binary
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.ttf binary
+*.otf binary
+*.zip binary
